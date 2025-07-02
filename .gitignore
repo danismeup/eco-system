@@ -5,3 +5,5 @@
 /.vs
 /EcoSystem.Functions/bin
 /EcoSystem.Functions/obj
+/EcoSystem.Api/bin/Debug/net9.0
+/EcoSystem.Api/obj

@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Debug",
+    "Projects": [
+      {
+        "Path": "EcoSystem.Api\\EcoSystem.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EcoSystem.Webapp\\ecosystem.webapp.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      }
+    ]
+  }
+]
